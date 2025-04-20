@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/nickshiffer/tglog"
+	"github.com/nshiffer/tglog"
 )
 
 // This example demonstrates how to create a logger with manual configuration

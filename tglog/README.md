@@ -15,7 +15,7 @@ A simple, secure, and efficient Golang package for sending log messages to Teleg
 ## Installation
 
 ```bash
-go get github.com/nickshiffer/tglog
+go get github.com/nshiffer/tglog
 ```
 
 ## Getting Started
@@ -34,7 +34,7 @@ go get github.com/nickshiffer/tglog
 package main
 
 import (
-    "github.com/nickshiffer/tglog"
+    "github.com/nshiffer/tglog"
 )
 
 func main() {

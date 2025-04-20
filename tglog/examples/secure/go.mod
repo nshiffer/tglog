@@ -1,7 +1,7 @@
-module github.com/nickshiffer/tglog/examples/secure
+module github.com/nshiffer/tglog/examples/secure
 
 go 1.23.5
 
-require github.com/nickshiffer/tglog v0.0.0
+require github.com/nshiffer/tglog v0.0.0
 
-replace github.com/nickshiffer/tglog => ../../
+replace github.com/nshiffer/tglog => ../../

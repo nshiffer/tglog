@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/nickshiffer/tglog"
+	"github.com/nshiffer/tglog"
 )
 
 func main() {

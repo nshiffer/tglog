@@ -1,3 +1,3 @@
-module github.com/nickshiffer/tglog
+module github.com/nshiffer/tglog
 
 go 1.23.5

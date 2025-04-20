@@ -25,7 +25,7 @@ This project provides a simple, secure, and efficient Golang package for sending
 ### Installation
 
 ```bash
-go get github.com/nickshiffer/tglog
+go get github.com/nshiffer/tglog
 ```
 
 ### Running Examples
@@ -55,7 +55,7 @@ go run main.go
 package main
 
 import (
-    "github.com/nickshiffer/tglog"
+    "github.com/nshiffer/tglog"
 )
 
 func main() {
