@@ -1,6 +1,6 @@
 module github.com/nshiffer/tglog/examples/basic
 
-go 1.23.5
+go 1.20
 
 require github.com/nshiffer/tglog v0.0.0
 
